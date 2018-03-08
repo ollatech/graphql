@@ -14,7 +14,8 @@
     ],
     "require": {
         "php": ">=7.0",
-        "olla/surface": "*"
+        "olla/flow": "*",
+        "olla/core": "*"
     },
     "require-dev": {
         
